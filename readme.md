@@ -24,17 +24,17 @@ Spanish translation by Brian Flores.
 
 1. Install the `Body Mass Index` widget through the 'Design' menu in WordPress
 
-#### (Optional, for advanced users) Add `wet_bmicalc` to a post or a page =
+#### (Optional, for advanced users) Add `wet_bmicalc` to a post or a page
 
 1. Type `[wet_bmicalc]` into a post's or a page's body text.
 
-= (Optional, for advanced users) Add `wet_bmicalc` to a template =
+#### (Optional, for advanced users) Add `wet_bmicalc` to a template
 
 1. Enter `<?php echo do_shortcode('[wet_bmicalc]'); ?>` into a suitable template file.
 
 ### Frequently Asked Questions
 
-#### Which prerequisites does `wet_bmicalc` expect? =
+#### Which prerequisites does `wet_bmicalc` expect?
 
 Actually, very little. `wet_bmicalc` requires JavaScript for its calculations, that's about all.
 
