@@ -1,0 +1,71 @@
+# wet_bmicalc WordPess Widget.
+# Copyright (C) 2008 Robert Wetzlmayr
+# This file is distributed under the same license as the wet_bmicalc package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wet_bmicalc\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/body-mass-index-calculator-widget\n"
+"POT-Creation-Date: 2012-05-02 08:52+0200\n"
+"PO-Revision-Date: 2012-05-02 08:55+0100\n"
+"Last-Translator: \n"
+"Language-Team:  <r.wetzlmayr@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wet_bmicalc.php:22
+#: wet_bmicalc.php:30
+msgid "Body Mass Index"
+msgstr "Body Mass Index"
+
+#: wet_bmicalc.php:25
+msgid "Allows the user to calculate the Body Mass Index (BMI) from body weight and height."
+msgstr "Berechnet den Body Mass Index aus Körpergröße und Gewicht."
+
+#: wet_bmicalc.php:43
+msgid "Calculate Your Body Mass Index"
+msgstr "Berechne deinen Body Mass Index"
+
+#: wet_bmicalc.php:44
+msgid "Calculate"
+msgstr "Berechne"
+
+#: wet_bmicalc.php:57
+msgid "Title:"
+msgstr "Titel:"
+
+#: wet_bmicalc.php:59
+msgid "Button Text:"
+msgstr "Text der Schaltfläche:"
+
+#: wet_bmicalc.php:61
+msgid "Use BMI Table at:"
+msgstr "Verwende BMI-Tabelle auf:"
+
+#: wet_bmicalc.php:77
+msgid "Height in cm:"
+msgstr "Größe in cm:"
+
+#: wet_bmicalc.php:78
+msgid "Weight in kg:"
+msgstr "Gewicht in kg:"
+
+#: wet_bmicalc.php:79
+msgid "Your <acronym title=\"Body Mass Index\">BMI</acronym> is"
+msgstr "Ihr <acronym title=\"Body Mass Index\">BMI</acronym> beträgt"
+
+#: wet_bmicalc.php:82
+msgid "Check your Body Mass Index&nbsp;&raquo;"
+msgstr "Zur BMI-Tabelle&nbsp;&raquo;"
+
+#: wet_bmicalc.php:85
+msgid "."
+msgstr ","
+
+#: wet_bmicalc.php:114
+msgid "This Widget requires Javascript"
+msgstr "Dieses Widget benötigt JavaScript"
+
